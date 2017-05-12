@@ -1,0 +1,2 @@
+# sredivari
+My personal blog
